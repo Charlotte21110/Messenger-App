@@ -37,7 +37,7 @@
 
 ## Node 环境
 
-**Node version 18.x**
+**Node version 18.17.0**
 
 ## 快速开始
 
